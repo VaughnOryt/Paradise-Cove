@@ -1,0 +1,252 @@
+{
+  "header": {
+    "home": "首页",
+    "accommodations": "住宿",
+    "dining": "餐饮",
+    "gallery": "画廊",
+    "offers": "优惠",
+    "events": "活动",
+    "admin": "管理",
+    "bookNow": "立即预订",
+    "logout": "登出",
+    "languageSelectorLabel": "选择语言"
+  },
+  "footer": {
+    "copyright": "© {year} 天堂湾度假村。版权所有。",
+    "tagline": "无与伦比的岛屿圣地。"
+  },
+  "loadingSpinner": {
+    "message": "正在加载天堂..."
+  },
+  "modal": {
+    "closeButton": "关闭",
+    "closeAriaLabel": "关闭模态框"
+  },
+  "loginPage": {
+    "title": "管理员登录",
+    "usernameLabel": "用户名",
+    "passwordLabel": "密码",
+    "usernamePlaceholder": "请输入您的用户名",
+    "passwordPlaceholder": "请输入您的密码",
+    "loginButton": "登录",
+    "errorMessage": "用户名或密码无效。请重试。"
+  },
+  "userView": {
+    "hero": {
+      "scrollLabel": "滚动到预订部分"
+    },
+    "story": {
+      "imageAlt": "度假村景观"
+    },
+    "amenities": {
+      "title": "难忘的体验",
+      "subtitle": "从宁静的放松到惊险的冒险，我们提供丰富的设施来丰富您的住宿体验。"
+    },
+    "video": {
+      "title": "探索天堂湾",
+      "subtitle": "按播放键，开始一段穿越我们迷人度假村的视觉之旅，从原始的海滩到我们豪华的住宿。",
+      "imageAlt": "度假村视频导览缩略图"
+    },
+    "testimonials": {
+      "title": "客人的话语"
+    },
+    "booking": {
+      "title": "预订您的世外桃源",
+      "subtitle": "在日历上选择您想要的日期。点击选择您的抵达日期，再点击选择您的离开日期。",
+      "detailsTitle": "您的详细信息",
+      "checkIn": "入住",
+      "checkOut": "退房",
+      "selectDate": "选择日期",
+      "totalStay": "总共入住：{count}晚",
+      "totalStay_plural": "总共入住：{count}晚",
+      "namePlaceholder": "全名",
+      "emailPlaceholder": "电子邮件地址",
+      "accommodationPlaceholder": "选择住宿",
+      "processing": "处理中...",
+      "requestButton": "请求预订",
+      "errors": {
+        "nameRequired": "需要全名。",
+        "emailRequired": "需要电子邮件地址。",
+        "emailInvalid": "请输入有效的电子邮件地址。",
+        "accommodationRequired": "请选择一个住宿。",
+        "datesRequired": "请选择开始和结束日期。",
+        "datesUnavailable": "这些日期不可用。请选择其他日期范围。"
+      }
+    },
+    "moments": {
+      "title": "在海湾的时刻",
+      "subtitle": "探索在天堂湾度假村等待您的美丽。",
+      "viewImageLabel": "查看图库图片 {index}",
+      "imageAlt": "图库图片 {index}",
+      "viewGalleryButton": "查看完整图库"
+    },
+    "successModal": {
+      "title": "预订请求已发送！",
+      "message": "谢谢您，{guestName}。您的请求已收到。一旦我们的团队批准，您将收到一封确认电子邮件。",
+      "accommodation": "住宿"
+    },
+    "galleryModal": {
+      "title": "图片 {current} of {total}",
+      "imageAlt": "放大的图库视图"
+    }
+  },
+  "accommodationsPage": {
+    "title": "住宿",
+    "subtitle": "选择您完美的避世之所。我们的每个房间都旨在提供极致的舒适感和与自然环境的无缝连接。",
+    "viewDetailsButton": "查看详情",
+    "amenities": {
+        "ac": "空调",
+        "espresso": "意式咖啡机",
+        "minibar": "迷你吧",
+        "wifi": "高速WiFi",
+        "safe": "室内保险箱",
+        "luxuryToiletries": "豪华洗浴用品",
+        "fan_ac": "吊扇和空调",
+        "yoga": "瑜伽垫",
+        "organicToiletries": "有机洗浴用品",
+        "coffee": "法压咖啡",
+        "speaker": "蓝牙音箱",
+        "lagoonAccess": "直达泻湖",
+        "glassFloor": "玻璃地板",
+        "hammock": "水上吊床"
+    }
+  },
+  "accommodationDetailModal": {
+    "mainImageAlt": "{name} 主视图",
+    "galleryImageAlt": "{name} 图库图片 {index}",
+    "perNight": "晚",
+    "amenitiesTitle": "设施",
+    "processing": "处理中...",
+    "bookButton": "预订此房间"
+  },
+  "admin": {
+    "title": "管理员仪表板",
+    "statusConfirmed": "已确认",
+    "statusPending": "待定",
+    "statusCancelled": "已取消",
+    "table": {
+        "guestName": "客人姓名",
+        "guestEmail": "客人电子邮件",
+        "accommodation": "住宿",
+        "dates": "日期",
+        "status": "状态",
+        "actions": "操作"
+    },
+    "actions": {
+        "confirm": "确认",
+        "cancel": "取消"
+    }
+  },
+  "galleryPage": {
+    "title": "我们的画廊",
+    "subtitle": "通过视觉之旅，探索在天堂湾等待您的体验。选择一个类别进行探索。",
+    "categories": {
+      "all": "全部",
+      "accommodations": "住宿",
+      "dining": "餐饮",
+      "facilities": "设施",
+      "events": "活动",
+      "scenery": "风景",
+      "activities": "活动"
+    },
+    "viewImageAriaLabel": "查看图片：{alt}"
+  },
+  "offersPage": {
+    "title": "特别优惠",
+    "subtitle": "通过我们的独家套餐和季节性促销，提升您在天堂湾的住宿体验，让您的经历更加难忘。",
+    "categories": {
+        "all": "全部",
+        "exclusive": "独家",
+        "seasonal": "季节性"
+    },
+    "noOffers": "目前此类别没有可用的优惠。"
+  },
+  "diningPage": {
+    "title": "美食佳肴",
+    "subtitle": "在天堂湾踏上美食之旅，每一餐都是对风味、新鲜和创新的庆祝。",
+    "previousImageLabel": "上一张图片",
+    "nextImageLabel": "下一张图片",
+    "showMore": "显示更多",
+    "showLess": "显示更少",
+    "ambiance": "氛围",
+    "dressCode": "着装要求",
+    "viewMenuButton": "查看菜单",
+    "reviews": {
+        "title": "客人评论",
+        "noReviews": "暂无评论。"
+    },
+    "concierge": {
+        "title": "您的AI餐饮礼宾",
+        "subtitle": "让我们先进的AI助手为您的住宿打造定制的餐饮行程。只需分享您的烹饪偏好，我们将为您策划一次个性化的风味之旅。",
+        "preferencesLabel": "饮食需求和偏好",
+        "preferencesPlaceholder": "例如：素食主义者，喜欢辛辣食物，对坚果过敏，庆祝周年纪念...",
+        "durationLabel": "住宿天数",
+        "loadingButton": "正在创建您的计划...",
+        "generateButton": "生成我的计划",
+        "imageAlt": "美食拼盘",
+        "errors": {
+            "preferencesRequired": "请提供您的偏好和住宿天数。",
+            "apiError": "创建您的计划时遇到问题。请重试。"
+        },
+        "gemini": {
+            "prompt": "You are the five-star concierge for the luxury Paradise Cove Resort. A guest is staying for {stayDuration} days and has the following dietary needs and preferences: \\\"{preferences}\\\".\n\nBased on our exclusive dining options below, create a personalized and exciting daily dining itinerary for their entire stay. Be creative and make the descriptions sound luxurious and enticing. Assume breakfast is best enjoyed via In-Villa Dining unless the guest implies otherwise.\n\nOur Restaurants:\n{diningOptions}\nIn-Villa Dining: Available for breakfast, offering a wide range of international and local favorites.\n\nPlease provide the output in the requested JSON format."
+        }
+    },
+    "planModal": {
+        "title": "您的个性化餐饮行程",
+        "dayTitle": "第 {day} 天：{title}",
+        "breakfast": "早餐",
+        "lunch": "在 {restaurant} 享用午餐",
+        "dinner": "在 {restaurant} 享用晚餐",
+        "try": "尝试",
+        "recommend": "我们推荐",
+        "generatedBy": "由天堂湾AI礼宾生成。"
+    },
+    "menuModal": {
+        "title": "{name} 菜单"
+    }
+  },
+  "eventsPage": {
+    "hero": {
+        "title": "难忘的活动",
+        "subtitle": "精心打造，置身天堂。"
+    },
+    "vision": {
+        "title": "您的愿景，我们的场地",
+        "subtitle": "从童话般的婚礼到高端企业务虚会，我们迷人的场地和专家团队为您最重要的场合提供了完美的画布。探索我们的产品，或让我们的AI活动策划师为您量身定制一份提案。",
+        "packagesTitle": "招牌套餐"
+    },
+    "planner": {
+        "title": "AI活动策划师",
+        "subtitle": "描述您理想的活动，我们的AI将在片刻之间生成个性化的提案。",
+        "eventTypeLabel": "活动类型",
+        "guestCountLabel": "宾客人数",
+        "budgetLabel": "预算",
+        "budgetFlexible": "灵活",
+        "preferencesLabel": "告诉我们您的活动...",
+        "preferencesPlaceholder": "描述愿景、氛围和任何必备要素。例如：'一个轻松的海滨日落婚礼仪式，配有有趣的现场乐队和美食的活泼招待会。'",
+        "loadingButton": "正在为您制定提案...",
+        "generateButton": "生成提案",
+        "errors": {
+            "preferencesRequired": "请描述您的活动和预计的宾客人数。",
+            "apiError": "创建您的提案时遇到问题。请重试。"
+        },
+        "gemini": {
+            "prompt": "You are a world-class AI Event Planner for the luxury Paradise Cove Resort. A client is planning a \\\"{eventType}\\\" event for approximately {guestCount} guests. Their budget is \\\"{budget}\\\" and their preferences are: \\\"{preferences}\\\".\n        \nBased on this information and our resort's offerings below, create a creative and enticing proposal for their event.\n        \nResort Information:\n{resortInfo}\n        \nPlease provide a detailed proposal in the requested JSON format. Make the names and descriptions sound luxurious and appealing."
+        }
+    },
+    "proposalModal": {
+        "theme": "建议主题",
+        "venue": "完美场地",
+        "itinerary": "行程示例",
+        "catering": "餐饮亮点",
+        "touches": "难忘的触动",
+        "generatedBy": "由天堂湾AI活动策划师生成。"
+    },
+    "categories": {
+        "weddings": "婚礼",
+        "corporate": "企业活动",
+        "social": "社交活动"
+    }
+  }
+}

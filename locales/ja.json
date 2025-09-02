@@ -1,0 +1,252 @@
+{
+  "header": {
+    "home": "ホーム",
+    "accommodations": "宿泊施設",
+    "dining": "ダイニング",
+    "gallery": "ギャラリー",
+    "offers": "特典",
+    "events": "イベント",
+    "admin": "管理",
+    "bookNow": "今すぐ予約",
+    "logout": "ログアウト",
+    "languageSelectorLabel": "言語を選択"
+  },
+  "footer": {
+    "copyright": "© {year} パラダイス・コーブ・リゾート. All Rights Reserved.",
+    "tagline": "比類なき島の聖域。"
+  },
+  "loadingSpinner": {
+    "message": "パラダイスを読み込み中..."
+  },
+  "modal": {
+    "closeButton": "閉じる",
+    "closeAriaLabel": "モーダルを閉じる"
+  },
+  "loginPage": {
+    "title": "管理者ログイン",
+    "usernameLabel": "ユーザー名",
+    "passwordLabel": "パスワード",
+    "usernamePlaceholder": "ユーザー名を入力してください",
+    "passwordPlaceholder": "パスワードを入力してください",
+    "loginButton": "ログイン",
+    "errorMessage": "ユーザー名またはパスワードが無効です。もう一度お試しください。"
+  },
+  "userView": {
+    "hero": {
+      "scrollLabel": "予約セクションへスクロール"
+    },
+    "story": {
+      "imageAlt": "リゾートの眺め"
+    },
+    "amenities": {
+      "title": "忘れられない体験",
+      "subtitle": "静かなリラクゼーションからスリリングな冒険まで、ご滞在を豊かにするアメニティをご用意しています。"
+    },
+    "video": {
+      "title": "パラダイス・コーブを探る",
+      "subtitle": "再生ボタンを押して、純白のビーチから豪華な宿泊施設まで、私たちの素晴らしいリゾートを巡る視覚的な旅に出かけましょう。",
+      "imageAlt": "リゾートビデオツアーのサムネイル"
+    },
+    "testimonials": {
+      "title": "お客様の声"
+    },
+    "booking": {
+      "title": "あなたの隠れ家を予約",
+      "subtitle": "カレンダーでご希望の日付を選択してください。クリックで到着日を、もう一度クリックで出発日を選択します。",
+      "detailsTitle": "お客様情報",
+      "checkIn": "チェックイン",
+      "checkOut": "チェックアウト",
+      "selectDate": "日付を選択",
+      "totalStay": "合計宿泊日数: {count}泊",
+      "totalStay_plural": "合計宿泊日数: {count}泊",
+      "namePlaceholder": "氏名",
+      "emailPlaceholder": "メールアドレス",
+      "accommodationPlaceholder": "宿泊施設を選択",
+      "processing": "処理中...",
+      "requestButton": "予約をリクエスト",
+      "errors": {
+        "nameRequired": "氏名は必須です。",
+        "emailRequired": "メールアドレスは必須です。",
+        "emailInvalid": "有効なメールアドレスを入力してください。",
+        "accommodationRequired": "宿泊施設を選択してください。",
+        "datesRequired": "開始日と終了日を選択してください。",
+        "datesUnavailable": "この日付は利用できません。他の範囲を選択してください。"
+      }
+    },
+    "moments": {
+      "title": "コーブでのひととき",
+      "subtitle": "パラダイス・コーブ・リゾートであなたを待つ美しさを発見してください。",
+      "viewImageLabel": "ギャラリー画像{index}を表示",
+      "imageAlt": "ギャラリー画像{index}",
+      "viewGalleryButton": "全ギャラリーを見る"
+    },
+    "successModal": {
+      "title": "予約リクエストが送信されました！",
+      "message": "{guestName}様、ありがとうございます。リクエストを受け付けました。チームによる承認後、確認メールをお送りします。",
+      "accommodation": "宿泊施設"
+    },
+    "galleryModal": {
+      "title": "画像 {current}/{total}",
+      "imageAlt": "拡大されたギャラリービュー"
+    }
+  },
+  "accommodationsPage": {
+    "title": "宿泊施設",
+    "subtitle": "完璧な聖域をお選びください。各客室は、究極の快適さと自然環境とのシームレスなつながりを提供するように設計されています。",
+    "viewDetailsButton": "詳細を見る",
+    "amenities": {
+        "ac": "エアコン",
+        "espresso": "エスプレッソマシン",
+        "minibar": "ミニバー",
+        "wifi": "高速Wi-Fi",
+        "safe": "室内金庫",
+        "luxuryToiletries": "高級バスアメニティ",
+        "fan_ac": "シーリングファン＆エアコン",
+        "yoga": "ヨガマット",
+        "organicToiletries": "オーガニックバスアメニティ",
+        "coffee": "フレンチプレスコーヒー",
+        "speaker": "Bluetoothスピーカー",
+        "lagoonAccess": "ラグーンへの直接アクセス",
+        "glassFloor": "ガラス床パネル",
+        "hammock": "水上ハンモック"
+    }
+  },
+  "accommodationDetailModal": {
+    "mainImageAlt": "{name} のメインビュー",
+    "galleryImageAlt": "{name} のギャラリー画像 {index}",
+    "perNight": "泊",
+    "amenitiesTitle": "アメニティ",
+    "processing": "処理中...",
+    "bookButton": "この部屋を予約"
+  },
+  "admin": {
+    "title": "管理者ダッシュボード",
+    "statusConfirmed": "確定済み",
+    "statusPending": "保留中",
+    "statusCancelled": "キャンセル済み",
+    "table": {
+        "guestName": "ゲスト名",
+        "guestEmail": "ゲストのメール",
+        "accommodation": "宿泊施設",
+        "dates": "日付",
+        "status": "ステータス",
+        "actions": "アクション"
+    },
+    "actions": {
+        "confirm": "確定",
+        "cancel": "キャンセル"
+    }
+  },
+  "galleryPage": {
+    "title": "私たちのギャラリー",
+    "subtitle": "パラダイス・コーブであなたを待つ体験を巡る視覚的な旅。カテゴリを選択して探索してください。",
+    "categories": {
+      "all": "すべて",
+      "accommodations": "宿泊施設",
+      "dining": "ダイニング",
+      "facilities": "施設",
+      "events": "イベント",
+      "scenery": "風景",
+      "activities": "アクティビティ"
+    },
+    "viewImageAriaLabel": "画像を表示: {alt}"
+  },
+  "offersPage": {
+    "title": "特別特典",
+    "subtitle": "パラダイス・コーブでのご滞在をさらに思い出深いものにするための、限定パッケージと季節プロモーションでご滞在を充実させましょう。",
+    "categories": {
+        "all": "すべて",
+        "exclusive": "限定",
+        "seasonal": "季節限定"
+    },
+    "noOffers": "現在、このカテゴリで利用可能な特典はありません。"
+  },
+  "diningPage": {
+    "title": "美食の喜び",
+    "subtitle": "パラダイス・コーブでの美食の旅に出かけましょう。すべての食事が味、新鮮さ、革新の祝典です。",
+    "previousImageLabel": "前の画像",
+    "nextImageLabel": "次の画像",
+    "showMore": "もっと見る",
+    "showLess": "少なく表示",
+    "ambiance": "雰囲気",
+    "dressCode": "ドレスコード",
+    "viewMenuButton": "メニューを見る",
+    "reviews": {
+        "title": "お客様のレビュー",
+        "noReviews": "まだレビューはありません。"
+    },
+    "concierge": {
+        "title": "AIダイニングコンシェルジュ",
+        "subtitle": "高度なAIアシスタントが、お客様のご滞在に合わせた特注のダイニング旅程を作成します。お料理のお好みを共有するだけで、あなただけの味の旅を企画します。",
+        "preferencesLabel": "食事のニーズと好み",
+        "preferencesPlaceholder": "例：ベジタリアン、辛いものが好き、ナッツアレルギー、記念日のお祝い...",
+        "durationLabel": "滞在日数",
+        "loadingButton": "プランを作成中...",
+        "generateButton": "プランを作成",
+        "imageAlt": "グルメフードプラッター",
+        "errors": {
+            "preferencesRequired": "好みと滞在日数を入力してください。",
+            "apiError": "プランの作成中に問題が発生しました。もう一度お試しください。"
+        },
+        "gemini": {
+            "prompt": "[JA] You are the five-star concierge for the luxury Paradise Cove Resort. A guest is staying for {stayDuration} days and has the following dietary needs and preferences: \\\"{preferences}\\\".\n\nBased on our exclusive dining options below, create a personalized and exciting daily dining itinerary for their entire stay. Be creative and make the descriptions sound luxurious and enticing. Assume breakfast is best enjoyed via In-Villa Dining unless the guest implies otherwise.\n\nOur Restaurants:\n{diningOptions}\nIn-Villa Dining: Available for breakfast, offering a wide range of international and local favorites.\n\nPlease provide the output in the requested JSON format."
+        }
+    },
+    "planModal": {
+        "title": "あなたのパーソナライズダイニング旅程",
+        "dayTitle": "Day {day}: {title}",
+        "breakfast": "朝食",
+        "lunch": "{restaurant}での昼食",
+        "dinner": "{restaurant}での夕食",
+        "try": "おすすめ",
+        "recommend": "おすすめ",
+        "generatedBy": "パラダイス・コーブのAIコンシェルジュによって生成されました。"
+    },
+    "menuModal": {
+        "title": "{name} メニュー"
+    }
+  },
+  "eventsPage": {
+    "hero": {
+        "title": "忘れられないイベント",
+        "subtitle": "優雅に作られ、楽園に設定。"
+    },
+    "vision": {
+        "title": "あなたのビジョン、私たちの会場",
+        "subtitle": "[JA] From fairy-tale weddings to high-powered corporate retreats, our stunning venues and expert team provide the perfect canvas for your most important occasions. Explore our offerings or let our AI Event Planner craft a custom proposal for you.",
+        "packagesTitle": "シグネチャーパッケージ"
+    },
+    "planner": {
+        "title": "AIイベントプランナー",
+        "subtitle": "理想のイベントを説明すれば、AIが数分でパーソナライズされた提案を生成します。",
+        "eventTypeLabel": "イベントの種類",
+        "guestCountLabel": "ゲスト数",
+        "budgetLabel": "予算",
+        "budgetFlexible": "柔軟",
+        "preferencesLabel": "イベントについて教えてください...",
+        "preferencesPlaceholder": "[JA] Describe the vision, vibe, and any must-haves. For example: 'A relaxed, beachfront wedding ceremony at sunset...'",
+        "loadingButton": "提案を作成中...",
+        "generateButton": "提案を生成",
+        "errors": {
+            "preferencesRequired": "イベントの説明と推定ゲスト数を入力してください。",
+            "apiError": "提案の作成中に問題が発生しました。もう一度お試しください。"
+        },
+        "gemini": {
+            "prompt": "[JA] You are a world-class AI Event Planner for the luxury Paradise Cove Resort. A client is planning a \\\"{eventType}\\\" event for approximately {guestCount} guests. Their budget is \\\"{budget}\\\" and their preferences are: \\\"{preferences}\\\".\n        \nBased on this information and our resort's offerings below, create a creative and enticing proposal for their event.\n        \nResort Information:\n{resortInfo}\n        \nPlease provide a detailed proposal in the requested JSON format. Make the names and descriptions sound luxurious and appealing."
+        }
+    },
+    "proposalModal": {
+        "theme": "提案されたテーマ",
+        "venue": "最適な会場",
+        "itinerary": "サンプル旅程",
+        "catering": "ケータリングのハイライト",
+        "touches": "忘れられないタッチ",
+        "generatedBy": "パラダイス・コーブのAIイベントプランナーによって生成されました。"
+    },
+    "categories": {
+        "weddings": "ウェディング",
+        "corporate": "企業向け",
+        "social": "社交"
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "header": {
+    "home": "Home",
+    "accommodations": "Accommodations",
+    "dining": "Dining",
+    "gallery": "Gallery",
+    "offers": "Offers",
+    "events": "Events",
+    "admin": "Admin",
+    "bookNow": "Book Now",
+    "logout": "Logout",
+    "languageSelectorLabel": "Select Language"
+  },
+  "footer": {
+    "copyright": "© {year} Paradise Cove Resort. All Rights Reserved.",
+    "tagline": "An unparalleled island sanctuary."
+  },
+  "loadingSpinner": {
+    "message": "Loading Paradise..."
+  },
+  "modal": {
+    "closeButton": "Close",
+    "closeAriaLabel": "Close modal"
+  },
+  "loginPage": {
+    "title": "Admin Login",
+    "usernameLabel": "Username",
+    "passwordLabel": "Password",
+    "usernamePlaceholder": "Enter your username",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "errorMessage": "Invalid username or password. Please try again."
+  },
+  "userView": {
+    "hero": {
+      "scrollLabel": "Scroll to booking section"
+    },
+    "story": {
+      "imageAlt": "Resort view"
+    },
+    "amenities": {
+      "title": "Unforgettable Experiences",
+      "subtitle": "From serene relaxation to thrilling adventures, we offer amenities to enrich your stay."
+    },
+    "video": {
+      "title": "Explore Paradise Cove",
+      "subtitle": "Press play to embark on a visual journey through our stunning resort, from the pristine beaches to our luxurious accommodations.",
+      "imageAlt": "Resort video tour thumbnail"
+    },
+    "testimonials": {
+      "title": "Words From Our Guests"
+    },
+    "booking": {
+      "title": "Reserve Your Escape",
+      "subtitle": "Select your desired dates on the calendar. A click to choose your arrival, and another for your departure.",
+      "detailsTitle": "Your Details",
+      "checkIn": "Check-in",
+      "checkOut": "Check-out",
+      "selectDate": "Select date",
+      "totalStay": "Total stay: {count} night",
+      "totalStay_plural": "Total stay: {count} nights",
+      "namePlaceholder": "Full Name",
+      "emailPlaceholder": "Email Address",
+      "accommodationPlaceholder": "Select an Accommodation",
+      "processing": "Processing...",
+      "requestButton": "Request to Book",
+      "errors": {
+        "nameRequired": "Full Name is required.",
+        "emailRequired": "Email Address is required.",
+        "emailInvalid": "Please enter a valid email address.",
+        "accommodationRequired": "Please select an accommodation.",
+        "datesRequired": "Please select a start and end date.",
+        "datesUnavailable": "These dates are unavailable. Please select another range."
+      }
+    },
+    "moments": {
+      "title": "Moments at The Cove",
+      "subtitle": "Discover the beauty that awaits you at Paradise Cove Resort.",
+      "viewImageLabel": "View gallery image {index}",
+      "imageAlt": "Gallery image {index}",
+      "viewGalleryButton": "View Full Gallery"
+    },
+    "successModal": {
+      "title": "Booking Request Sent!",
+      "message": "Thank you, {guestName}. Your request has been received. You will get an email confirmation once it's approved by our team.",
+      "accommodation": "Accommodation"
+    },
+    "galleryModal": {
+      "title": "Image {current} of {total}",
+      "imageAlt": "Enlarged gallery view"
+    }
+  },
+  "accommodationsPage": {
+    "title": "Accommodations",
+    "subtitle": "Choose your perfect sanctuary. Each of our rooms is designed to provide ultimate comfort and a seamless connection to the natural surroundings.",
+    "viewDetailsButton": "View Details",
+    "amenities": {
+        "ac": "Air Conditioning",
+        "espresso": "Espresso Machine",
+        "minibar": "Mini Bar",
+        "wifi": "High-Speed WiFi",
+        "safe": "In-room Safe",
+        "luxuryToiletries": "Luxury Toiletries",
+        "fan_ac": "Ceiling Fan & AC",
+        "yoga": "Yoga Mats",
+        "organicToiletries": "Organic Toiletries",
+        "coffee": "French Press Coffee",
+        "speaker": "Bluetooth Speaker",
+        "lagoonAccess": "Direct Lagoon Access",
+        "glassFloor": "Glass Floor Panel",
+        "hammock": "Overwater Hammock"
+    }
+  },
+  "accommodationDetailModal": {
+    "mainImageAlt": "{name} main view",
+    "galleryImageAlt": "{name} gallery image {index}",
+    "perNight": "night",
+    "amenitiesTitle": "Amenities",
+    "processing": "Processing...",
+    "bookButton": "Book This Room"
+  },
+  "admin": {
+    "title": "Administrator Dashboard",
+    "statusConfirmed": "Confirmed",
+    "statusPending": "Pending",
+    "statusCancelled": "Cancelled",
+    "table": {
+        "guestName": "Guest Name",
+        "guestEmail": "Guest Email",
+        "accommodation": "Accommodation",
+        "dates": "Dates",
+        "status": "Status",
+        "actions": "Actions"
+    },
+    "actions": {
+        "confirm": "Confirm",
+        "cancel": "Cancel"
+    }
+  },
+  "galleryPage": {
+    "title": "Our Gallery",
+    "subtitle": "A visual journey through the experiences that await you at Paradise Cove. Select a category to explore.",
+    "categories": {
+      "all": "All",
+      "accommodations": "Accommodations",
+      "dining": "Dining",
+      "facilities": "Facilities",
+      "events": "Events",
+      "scenery": "Scenery",
+      "activities": "Activities"
+    },
+    "viewImageAriaLabel": "View image: {alt}"
+  },
+  "offersPage": {
+    "title": "Special Offers",
+    "subtitle": "Enhance your stay at Paradise Cove with our exclusive packages and seasonal promotions, crafted to make your experience even more memorable.",
+    "categories": {
+        "all": "All",
+        "exclusive": "Exclusive",
+        "seasonal": "Seasonal"
+    },
+    "noOffers": "No offers available in this category at the moment."
+  },
+  "diningPage": {
+    "title": "Culinary Delights",
+    "subtitle": "Embark on a gastronomic journey at Paradise Cove, where every meal is a celebration of flavor, freshness, and innovation.",
+    "previousImageLabel": "Previous image",
+    "nextImageLabel": "Next image",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "ambiance": "Ambiance",
+    "dressCode": "Dress Code",
+    "viewMenuButton": "View Menu",
+    "reviews": {
+        "title": "Guest Reviews",
+        "noReviews": "No reviews yet."
+    },
+    "concierge": {
+        "title": "Your AI Dining Concierge",
+        "subtitle": "Let our advanced AI assistant craft a bespoke dining itinerary for your stay. Simply share your culinary preferences, and we'll curate a personalized journey of flavors just for you.",
+        "preferencesLabel": "Dietary needs & preferences",
+        "preferencesPlaceholder": "e.g., vegetarian, love spicy food, allergic to nuts, celebrating an anniversary...",
+        "durationLabel": "Length of stay (days)",
+        "loadingButton": "Creating Your Plan...",
+        "generateButton": "Generate My Plan",
+        "imageAlt": "Gourmet food platter",
+        "errors": {
+            "preferencesRequired": "Please provide your preferences and length of stay.",
+            "apiError": "We encountered an issue creating your plan. Please try again."
+        },
+        "gemini": {
+            "prompt": "You are the five-star concierge for the luxury Paradise Cove Resort. A guest is staying for {stayDuration} days and has the following dietary needs and preferences: \"{preferences}\".\n\nBased on our exclusive dining options below, create a personalized and exciting daily dining itinerary for their entire stay. Be creative and make the descriptions sound luxurious and enticing. Assume breakfast is best enjoyed via In-Villa Dining unless the guest implies otherwise.\n\nOur Restaurants:\n{diningOptions}\nIn-Villa Dining: Available for breakfast, offering a wide range of international and local favorites.\n\nPlease provide the output in the requested JSON format."
+        }
+    },
+    "planModal": {
+        "title": "Your Personalized Dining Itinerary",
+        "dayTitle": "Day {day}: {title}",
+        "breakfast": "Breakfast",
+        "lunch": "Lunch at {restaurant}",
+        "dinner": "Dinner at {restaurant}",
+        "try": "Try the",
+        "recommend": "We recommend",
+        "generatedBy": "Generated by Paradise Cove's AI Concierge."
+    },
+    "menuModal": {
+        "title": "{name} Menu"
+    }
+  },
+  "eventsPage": {
+    "hero": {
+        "title": "Unforgettable Events",
+        "subtitle": "Crafted with elegance, set in paradise."
+    },
+    "vision": {
+        "title": "Your Vision, Our Venue",
+        "subtitle": "From fairy-tale weddings to high-powered corporate retreats, our stunning venues and expert team provide the perfect canvas for your most important occasions. Explore our offerings or let our AI Event Planner craft a custom proposal for you.",
+        "packagesTitle": "Signature Packages"
+    },
+    "planner": {
+        "title": "AI Event Planner",
+        "subtitle": "Describe your ideal event, and our AI will generate a personalized proposal in moments.",
+        "eventTypeLabel": "Type of Event",
+        "guestCountLabel": "Number of Guests",
+        "budgetLabel": "Budget",
+        "budgetFlexible": "Flexible",
+        "preferencesLabel": "Tell us about your event...",
+        "preferencesPlaceholder": "Describe the vision, vibe, and any must-haves. For example: 'A relaxed, beachfront wedding ceremony at sunset with a fun, lively reception with a live band and great food.'",
+        "loadingButton": "Crafting Your Proposal...",
+        "generateButton": "Generate Proposal",
+        "errors": {
+            "preferencesRequired": "Please describe your event and estimated guest count.",
+            "apiError": "We encountered an issue creating your proposal. Please try again."
+        },
+        "gemini": {
+            "prompt": "You are a world-class AI Event Planner for the luxury Paradise Cove Resort. A client is planning a \"{eventType}\" event for approximately {guestCount} guests. Their budget is \"{budget}\" and their preferences are: \"{preferences}\".\n        \nBased on this information and our resort's offerings below, create a creative and enticing proposal for their event.\n        \nResort Information:\n{resortInfo}\n        \nPlease provide a detailed proposal in the requested JSON format. Make the names and descriptions sound luxurious and appealing."
+        }
+    },
+    "proposalModal": {
+        "theme": "Suggested Theme",
+        "venue": "Perfect Venue",
+        "itinerary": "Sample Itinerary",
+        "catering": "Catering Highlights",
+        "touches": "Unforgettable Touches",
+        "generatedBy": "Generated by Paradise Cove's AI Event Planner."
+    },
+    "categories": {
+        "weddings": "Weddings",
+        "corporate": "Corporate",
+        "social": "Social"
+    }
+  }
+}
